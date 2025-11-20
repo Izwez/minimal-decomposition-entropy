@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Minimal decomposition entropy
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Ramadas
+    family-names: 'N'
+    email: ramadas.phy@gmail.com
+    affiliation: >-
+      Division of Sciences, Krea University, Sri City
+      517646, India.
+repository-code: 'https://github.com/Izwez/minimal-decomposition-entropy'
+url: 'https://github.com/Izwez/minimal-decomposition-entropy'
+license: GPL-3.0
